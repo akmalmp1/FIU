@@ -1,13 +1,9 @@
 # Kelompok FIU
 
 ## Anggota Kelompok
-1. M. Reksa
-2. Akmal
-3. Ferdi
-4. Arsyad
-5. Alif
-6. Raka
-7. Ridwan
+1. Akmal
+2. Ferdi
+3. Arsyad
 
 ## Deskripsi
 Ini adalah repository milik Kelompok FIU untuk proyek pengembangan tertentu. Semua anggota dapat berkontribusi dan berkolaborasi melalui repository ini.
